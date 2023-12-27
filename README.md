@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narakorn Kongsakban</h1>
-<h3 align="center">3rd year information technology (IT) faculty student</h3>
+<h3 align="center">3rd year IT faculty student</h3>
 
 - 🌱 I’m currently learning **Typescript, Go, AWS**
 
