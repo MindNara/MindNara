@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Narakorn Kongsakban
 ===========================================================================================================================================
 
-3rd year IT faculty student
+I'm student and developer.
 ---------------------------
 
 I've been learning to code for 3 years. I started with HTML, CSS, and JavaScript. At that time it was very difficult but also very challenging so I've been practicing ever since. Until now, coding has become a part of my life.
