@@ -4,8 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm a student and developer
 ---------------------------
 
-I've been learning to code for 3 years. I started with HTML, CSS, and JavaScript. At that time it was very difficult but also very challenging so I've been practicing ever since. Until now, coding has become a part of my life.
-
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [narakornmind@gmail.com](mailto:narakornmind@gmail.com)
 * 🧠  I'm learning TypeScript and AWS
