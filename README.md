@@ -24,9 +24,10 @@ I'm a student and developer
 
 ## Projects
 
- - [Management Web Application](https://github.com/MindNara/DevTool): Plan Schedule Management, Built with Vue.js, Vite.js, Bulma, Node.js, and MySQL.
- - [Travel Palnner Application](https://github.com/MindNara/TravePlanner-app): Trip plan Management, Built with React Native, Tailwind CSS, and Firebase.
+ - [ITReg Web Application](https://github.com/MindNara/DevTool): Student course registration system, Built with React.js, Tailwind CSS, Node.js, Firebase.
+ - [Management Web Application](https://github.com/MindNara/Management-web-app): To-do list and schedule management, Built with Vue.js, Vite.js, Bulma, Node.js, and MySQL.
+ - [Travel Palnner Application](https://github.com/MindNara/TravePlanner-app): Trip management app, Built with React Native, Tailwind CSS, and Firebase.
  - [Klaikhun Web Application](https://github.com/MindNara/Klaikhun-web-app): Book hotels and flights, Built with React.js, Vite.js, Node.js, Tailwind CSS, and MySQL.
  - [RIOD Web Application](https://github.com/MindNara/RIOD-web-app): Online shopping site, Built with HTML, CSS, JavaScript, PHP, and phpMyAdmin.
- - [Webteen Web Application](https://github.com/t0ngk/webteen-frontend): Digital comics platform, Built with Svelte, Tailwind CSS, Java, Sprint Boot, RabbitMQ, and MongoDB. This is a microservices project which has 12 services in total. I've built the main service which is the [book service](https://github.com/MindNara/Book-service).
+ - [Webteen Web Application](https://github.com/t0ngk/webteen-frontend): Digital comics platform, Built with Svelte, Tailwind CSS, Java, Sprint Boot, RabbitMQ, and MongoDB. This is a microservices project which has 12 services in total.
  - [Librarian Application](https://github.com/Buy3r/OOP-The_Librarian): Borrow and return books system, Built with Java, Spring Boot, and MySQL.
