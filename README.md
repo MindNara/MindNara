@@ -24,8 +24,7 @@ I'm a student and developer
 
 ## Projects
 
- - [ITReg Web Application](https://github.com/deeptech-kmitl/ITReg) - Student course registration system, Built with React.js, Tailwind CSS, Node.js, Firebase.
- - [Management Web Application](https://github.com/MindNara/Management-web-app): Plan Schedule Management, Built with Vue.js, Vite.js, Bulma, Node.js, and MySQL.
+ - [Management Web Application](https://github.com/MindNara/DevTool): Plan Schedule Management, Built with Vue.js, Vite.js, Bulma, Node.js, and MySQL.
  - [Travel Palnner Application](https://github.com/MindNara/TravePlanner-app): Trip plan Management, Built with React Native, Tailwind CSS, and Firebase.
  - [Klaikhun Web Application](https://github.com/MindNara/Klaikhun-web-app): Book hotels and flights, Built with React.js, Vite.js, Node.js, Tailwind CSS, and MySQL.
  - [RIOD Web Application](https://github.com/MindNara/RIOD-web-app): Online shopping site, Built with HTML, CSS, JavaScript, PHP, and phpMyAdmin.
